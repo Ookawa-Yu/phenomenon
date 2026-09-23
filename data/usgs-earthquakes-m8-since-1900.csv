@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-07-29T06:15:49.188Z,55.3635,-157.8876,35,8.2,mww,,,,0.95,ak,ak0219neiszm,2026-04-15T18:42:11.216Z,"2021 Chignik, Alaska Earthquake",earthquake,,0,,,reviewed,ak,ak
+1995-10-09T15:35:53.910Z,19.055,-104.205,33,8,mw,,,,1.3,us,usp00074vc,2025-07-24T15:00:25.129Z,"1995 Colima-Jalisco, Mexico Earthquake",earthquake,,,,,reviewed,us,hrv
+1986-05-07T22:47:10.870Z,51.52,-174.776,33,8,mw,,,,1.1,us,usp0002tmu,2025-11-20T19:54:32.145Z,"1986 Atka, Alaska Earthquake",earthquake,,,,,reviewed,us,hrv
+1985-09-19T13:17:47.350Z,18.19,-102.533,27.9,8,mw,,,,1.3,us,usp0002jwe,2025-07-24T15:01:26.363Z,"1985 Michoacan, Mexico Earthquake",earthquake,,3.8,,,reviewed,us,hrv
+1965-02-04T05:01:22.000Z,51.251,178.715,30.3,8.7,mw,,,,,official,official19650204050122_30,2025-12-19T18:14:42.894Z,"1965 Western Aleutian Islands (Hawadax/Rat Islands) Earthquake",earthquake,,,,,automatic,iscgem,official
+1964-03-28T03:36:16.000Z,60.908,-147.339,25,9.2,mw,,,,,official,official19640328033616_30,2026-07-15T09:16:04.142Z,"The 1964 Prince William Sound, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1957-03-09T14:22:33.000Z,51.499,-175.626,25,8.6,mw,,,,,official,official19570309142233_30,2025-11-25T16:13:51.070Z,"1957 Atka, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1949-08-22T04:01:18.000Z,53.673,-133.015,10,8,mw,,,,,official,official19490822040118000_10,2026-09-11T00:58:42.693Z,"The 1949 Haida Gwaii, Canada Earthquake",earthquake,,,,,reviewed,iscgem,official
+1946-04-01T12:29:01.000Z,53.492,-162.832,15,8.6,mw,,,,,official,official19460401122901_30,2026-07-30T23:53:13.658Z,"The 1946 Unimak Island, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1938-11-10T20:18:49.000Z,55.178,-158.181,35,8.23,mw,,,,,official,official19381110201849000_35,2025-11-25T16:18:01.774Z,"1938 Semidi Islands, Alaska Earthquake",earthquake,,,,,reviewed,iscgem,official
+1932-06-03T10:36:58.080Z,19.795,-103.931,35,8.1,mw,,,,,iscgem,iscgem906183,2025-07-24T15:08:17.332Z,"1932 Jalisco, Mexico Earthquake",earthquake,,3.9,0.3,,reviewed,iscgem,iscgem
+1906-08-17T00:11:10.500Z,51.853,178.18,110,8.3,mw,,,,,iscgem,iscgem16957912,2026-08-10T22:51:58.464Z,"1906 Western Aleutian Islands (Hawadax/Rat Islands) Earthquake",earthquake,,34.5,0.2,,reviewed,iscgem,iscgem
