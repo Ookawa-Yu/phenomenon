@@ -1,5 +1,5 @@
 # The phenomenon--earthquakes
-
+Data source: [USGS Earthquake Catalog — CSV download](https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=1900-01-01&minlatitude=18.01&maxlatitude=72.299&minlongitude=-195.645&maxlongitude=-66.973&minmagnitude=8&orderby=time)
 
 ![Earthquake magnitudes over time](out/earthquakes.png)
 
