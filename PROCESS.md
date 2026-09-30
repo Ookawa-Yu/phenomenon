@@ -1,15 +1,9 @@
 # Process
 
-<!-- Same as assignment 1, same honesty. Which tools you used and for what; one
-thing you kept and why it was good; one thing you rejected and why it was wrong.
-"I did not use any" is fine if it is true.
-
-If a model wrote most of plot.py, which is likely and allowed, the interesting part
-is what you had to correct: did it invent a column name, use pandas where a list
-would do, silently drop the rows it could not parse? -->
 
 ## Tools
-
+I used ChatGPT to help me understand Python code, fix terminal errors, convert a USGS map link into a CSV download URL, and adapt the plotting script for earthquake data.
 ## Kept
-
+I kept ChatGPT’s suggestion to convert earthquake magnitudes from strings to numbers before plotting. This helped me understand why checking data types matters.
 ## Rejected
+I did not use ChatGPT’s first PROCESS.md draft because it focused on general project tools rather than AI use. I asked for a revised version that explained how I used AI and evaluated its suggestions.
